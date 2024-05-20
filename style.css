@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic&display=swap');
+
+main.content{
+    text-align: center;
+    justify-self: center;
+}
+main.content h1{
+    font-size: 60px;
+    font-family: "Carrois Gothic", sans-serif;
+}
+main.content button{
+    padding: 20px 40px;
+    background-color: turquoise;
+}
+main.content p{
+    margin: 20px 0px;
+}
